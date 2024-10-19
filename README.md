@@ -9,7 +9,17 @@
 | service.yml |||||
 | script.sh |||||
 
+# ⚙️ Para Rodar o script.sh no Mac
 
+    ./script.sh
+## 🔥 Principais comandos:
+    minikube service --url php
+     kubectl exec --tty --stdin mysql-849684b7c9-gttfh -- /bin/bash
+     kubectl get deploy
+     kubectl get service
+     kubectl get pods
+     kubectl apply -f deployment.yml
+     
 
 
 #
