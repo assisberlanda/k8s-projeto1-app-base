@@ -1,4 +1,5 @@
-# 🐳 Criando um Deploy Kubernets de uma Aplicação
+# ☸️ Kubernetes
+### Criando um Deploy Kubernets de uma Aplicação
 ### 🚦 Estrutura das Pastas
 | k8-projeto-app-base | backend | database | frontend |
 |-|-|-|-|
@@ -25,8 +26,3 @@
     kubectl rollout undo deployment httpd
     kubectl describe deployment httpd
     kubectl rollout undo deployment httpd --to-revision=1
-    
-
-
-#
-🌎☁️🧩📌❇️💡❗️🆑✅🔗⌨️🔴☑️🔗🐳🔥🚀🚧🚦⚙️⚠️🌐✨
